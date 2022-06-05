@@ -16,7 +16,7 @@ my first html with hyper link. yes, i did it.:)
 
 
 
-and also bulid with trasition buttons.
+and also bulid with transition buttons. :) :) :) 
 
 ![image](https://user-images.githubusercontent.com/34596671/172040768-e99c0726-7587-4bab-8349-1095d7f657c7.png)
 
