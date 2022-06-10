@@ -27,3 +27,9 @@ i make 3d padding button <3 <3 <3
 ![image](https://user-images.githubusercontent.com/34596671/172508268-ef9e03fb-8494-4078-88fd-75b2a3686eeb.png)
 
 
+and this is a text. ;)
+
+![image](https://user-images.githubusercontent.com/34596671/173023900-70d765f7-b316-4e69-9065-ba21ebfc2cf3.png)
+
+
+
