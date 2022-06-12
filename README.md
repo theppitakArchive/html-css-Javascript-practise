@@ -31,5 +31,17 @@ and this is a text. ;)
 
 ![image](https://user-images.githubusercontent.com/34596671/173023900-70d765f7-b316-4e69-9065-ba21ebfc2cf3.png)
 
+i learn how to separate css from html file use <link ref....> tag and use google font in style.(big progresses :))
+(files in folder)
+![image](https://user-images.githubusercontent.com/34596671/173228453-fa9e39ff-8e2a-4df9-9d58-1d61cbdaad35.png)
+
+css file.
+![image](https://user-images.githubusercontent.com/34596671/173228505-af9c5bd2-013c-43fc-80b8-8d09d064458d.png)
+
+
+
+
+
+
 
 
