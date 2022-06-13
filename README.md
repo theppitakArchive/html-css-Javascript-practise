@@ -39,6 +39,11 @@ css file.
 ![image](https://user-images.githubusercontent.com/34596671/173228505-af9c5bd2-013c-43fc-80b8-8d09d064458d.png)
 
 
+add image to website. :)
+
+![image](https://user-images.githubusercontent.com/34596671/173325647-f09f3c9c-4db8-4517-bf39-4844e612feb0.png)
+
+
 
 
 
