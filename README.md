@@ -44,6 +44,15 @@ add image to website. :)
 ![image](https://user-images.githubusercontent.com/34596671/173325647-f09f3c9c-4db8-4517-bf39-4844e612feb0.png)
 
 
+input form :)
+
+![image](https://user-images.githubusercontent.com/34596671/175206135-8ca1e08c-24bd-4a5f-bdd0-5c133bb32a8a.png)
+
+
+
+
+
+
 
 
 
