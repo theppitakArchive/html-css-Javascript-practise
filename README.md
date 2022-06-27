@@ -55,6 +55,13 @@ use div as container :))))
 ![image](https://user-images.githubusercontent.com/34596671/175259271-50594f10-3ad5-455f-b8da-2b4d6396a158.png)
 
 
+use DIV As container imitate facebook and google search page. :))))
+
+
+![image](https://user-images.githubusercontent.com/34596671/175840684-6a9fd0ac-be85-470f-9fc0-37ebb50e479a.png)
+
+![image](https://user-images.githubusercontent.com/34596671/175840720-dc211e9a-24d4-439e-b92b-f0d53d708999.png)
+
 
 
 
