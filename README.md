@@ -63,6 +63,11 @@ use DIV As container imitate facebook and google search page. :))))
 ![image](https://user-images.githubusercontent.com/34596671/175840720-dc211e9a-24d4-439e-b92b-f0d53d708999.png)
 
 
+patern design use Div container collum and row.
+
+![image](https://user-images.githubusercontent.com/34596671/176070555-5ce5535a-856c-49fe-a71f-30fc44b6f718.png)
+
+
 
 
 
