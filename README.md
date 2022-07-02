@@ -68,6 +68,12 @@ patern design use Div container collum and row.
 ![image](https://user-images.githubusercontent.com/34596671/176070555-5ce5535a-856c-49fe-a71f-30fc44b6f718.png)
 
 
+grid container :3
+
+![image](https://user-images.githubusercontent.com/34596671/176982189-7db1dba4-af9d-40b4-8feb-dfd7d4968682.png)
+
+![image](https://user-images.githubusercontent.com/34596671/176982219-244eaef2-3cc5-49aa-9ec0-9cb38ad76522.png)
+
 
 
 
