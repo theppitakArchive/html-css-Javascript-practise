@@ -75,6 +75,10 @@ grid container :3
 ![image](https://user-images.githubusercontent.com/34596671/176982219-244eaef2-3cc5-49aa-9ec0-9cb38ad76522.png)
 
 
+Flexbox :)
+
+![image](https://user-images.githubusercontent.com/34596671/177179023-3e9b90c4-ec17-4909-a2a0-d18a47418807.png)
+![image](https://user-images.githubusercontent.com/34596671/177179367-c3814752-e939-4a8b-b037-71f0c2d19071.png)
 
 
 
