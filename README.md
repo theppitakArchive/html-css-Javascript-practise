@@ -81,6 +81,9 @@ Flexbox :)
 ![image](https://user-images.githubusercontent.com/34596671/177179367-c3814752-e939-4a8b-b037-71f0c2d19071.png)
 
 
+Flexbox nested :))
+
+![image](https://user-images.githubusercontent.com/34596671/178144717-4063fa3a-d23a-4f78-a345-d5f75cf0632b.png)
 
 
 
